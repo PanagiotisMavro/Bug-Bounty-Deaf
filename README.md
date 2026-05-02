@@ -8,6 +8,19 @@ It focuses on **recon, endpoint discovery, and vulnerability signal gathering**,
 
 ---
 
+## ❤️ Respect & Purpose
+
+This project is created with respect for everyone learning cybersecurity, including the deaf and hard-of-hearing community.
+
+The goal is simple:
+👉 Make bug bounty recon easier to understand  
+👉 Help beginners learn real security workflow step-by-step  
+👉 Support learning in a clear and structured way  
+
+Security is for everyone. Knowledge should be open, simple, and respectful.
+
+---
+
 ## 🚀 Why this project exists
 
 Most beginners struggle with:
